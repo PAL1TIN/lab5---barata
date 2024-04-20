@@ -1,4 +1,3 @@
-package atividade2;
 
 public class PopulacaoDeBaratas {
    private long populacao;
